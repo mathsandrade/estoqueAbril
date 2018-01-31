@@ -1,0 +1,22 @@
+CREATE TABLE cliente(
+id serial PRIMARY KEY,
+nome text NOT NULL,
+email text UNIQUE NOT NULL,
+telefone text
+);
+
+CREATE TABLE produto(
+id serial PRIMARY KEY,
+nome text UNIQUE NOT NULL,
+descricao text NOT NULL,
+preco numeric(15,2)
+);
+
+CREATE TABLE pedido(
+id serial PRIMARY KEY,
+id_produto int,
+id_cliente int,
+    
+CONSTRAINT f_produto FOREIGN KEY(id_produto) references produto(id) ON DELETE CASCADE,
+CONSTRAINT f_cliente FOREIGN KEY(id_cliente) references cliente(id) ON DELETE CASCADE
+);
