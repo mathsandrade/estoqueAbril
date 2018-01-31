@@ -3,10 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/controlEstoque/src/java/FrontController/ClienteController.java</file>
+            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/controlEstoque/web/produtos/edit.jsp</file>
             <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/controlEstoque/src/java/FrontController/ProdutoController.java</file>
+            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/controlEstoque/web/js/jquery.mask.min.js</file>
+            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/controlEstoque/src/java/DAO/ProdutoDAO.java</file>
+            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/controlEstoque/web/clientes/form.jsp</file>
+            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/controlEstoque/src/java/Model/Produto.java</file>
+            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/controlEstoque/web/js/jquery.min.js</file>
             <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/controlEstoque/src/java/ViewModel/ProdutoViewModel.java</file>
-            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/controlEstoque/src/java/ViewModel/ClienteViewModel.java</file>
         </group>
     </open-files>
 </project-private>
